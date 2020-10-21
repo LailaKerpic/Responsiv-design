@@ -1,0 +1,25 @@
+body {
+    max-width: 1000px;
+    float: none;
+    margin: auto;
+    background-color: bisque;
+}
+
+h1 {}
+
+h2 {
+    width: 100%;
+    display: inline-block;
+    background-color: rgb(172, 125, 94);
+}
+
+img {
+    max-width: 100%;
+
+}
+
+figure {
+
+margin: 0;
+
+}
